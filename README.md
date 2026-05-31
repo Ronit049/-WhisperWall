@@ -89,3 +89,24 @@ Then verify server-side instead of client-side.
 | Fonts      | Google Fonts (Playfair Display + DM Sans) |
 | Storage    | localStorage (client-side) |
 | No dependencies | ✅ Zero npm, zero build |
+
+
+
+## Author
+
+**Ronit Raj**
+feel free to Connect 💗  
+[🏆 CodeChef](https://www.codechef.com/users/its_rsr04)
+
+[💡 HackerRank](https://www.hackerrank.com/profile/ronitrajrsr0409)
+---
+
+## Show Your Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+Your support motivates me to build more projects and improve my skills.
+
+---
+
+## Thank You
