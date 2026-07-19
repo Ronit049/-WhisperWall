@@ -78,6 +78,24 @@ const res = await fetch('/api/send-otp', {
 Then verify server-side instead of client-side.
 
 ---
+## 📸 Application Screenshots
+
+<div align="center">
+
+### 📝 Confession Page
+<img src="wishper wall confession.png" alt="WhisperWall Confession Page" width="900"/>
+
+<br><br>
+
+### 🎨 Frontend Interface
+<img src="wishper wall frontend.png" alt="WhisperWall Frontend" width="900"/>
+
+<br><br>
+
+### 🔐 Login Page
+<img src="wishper wall login page.png" alt="WhisperWall Login Page" width="900"/>
+
+</div>
 
 ## 🛠️ Tech Stack
 
