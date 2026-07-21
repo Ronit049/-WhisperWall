@@ -3,7 +3,21 @@
 A beautiful, dark-themed public confession website with **login + OTP verification**.
 
 ---
+<div align="center">
 
+<!-- Animated Header -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:7c3aed&height=200&section=header&text=WhisperWall&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+<h3>✨ A beautiful, dark-themed public confession website with OTP login verification</h3>
+
+<p> <a href="https://github.com/Ronit049/-WhisperWall"> <img src="https://img.shields.io/github/stars/Ronit049/-WhisperWall?style=for-the-badge&color=7c3aed" alt="Stars" /> </a> <a href="https://github.com/Ronit049/-WhisperWall/forks"> <img src="https://img.shields.io/github/forks/Ronit049/-WhisperWall?style=for-the-badge&color=8b5cf6" alt="Forks" /> </a> <a href="https://github.com/Ronit049/-WhisperWall/blob/main/LICENSE"> <img src="https://img.shields.io/github/license/Ronit049/-WhisperWall?style=for-the-badge&color=ec4899" alt="License" /> </a> </p>
+
+<p> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E9D5FF&center=true&vCenter=true&width=850&lines=Confess+freely.;Share+anonymously.;Explore+the+wall.;Built+with+HTML%2C+CSS+%26+JavaScript." alt="Typing SVG" /> </p>
+
+<p> <a href="https://whisper-wall-blue.vercel.app/"> <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /> </a> <a href="https://github.com/Ronit049/-WhisperWall"> <img src="https://img.shields.io/badge/View%20Code-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
+
+</div>
 ## 📁 File Structure
 
 ```
@@ -110,21 +124,20 @@ Then verify server-side instead of client-side.
 
 
 
-## Author
+⭐ Support
 
-**Ronit Raj**
-feel free to Connect 💗  
-[🏆 CodeChef](https://www.codechef.com/users/its_rsr04)
+If you like this project, consider giving it a star on GitHub.
 
-[💡 HackerRank](https://www.hackerrank.com/profile/ronitrajrsr0409)
----
+👨‍💻 Author
 
-## Show Your Support
+Ronit Raj  
+GitHub: Ronit049
 
-If you found this project useful, please consider giving it a ⭐ on GitHub.
+<div align="center">
 
-Your support motivates me to build more projects and improve my skills.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:111827&height=140&section=footer" />
 
----
+</div>
+
 
 ## Thank You
