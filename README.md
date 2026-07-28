@@ -124,20 +124,80 @@ Then verify server-side instead of client-side.
 
 
 
-⭐ Support
-
-If you like this project, consider giving it a star on GitHub.
-
-👨‍💻 Author
-
-Ronit Raj  
-GitHub: Ronit049
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:111827&height=140&section=footer" />
+# ⭐ Support the Project
+
+If you found this project useful, informative, or inspiring, please consider giving it a ⭐ on GitHub.
+
+Your support helps improve the project, motivates future development, and makes it easier for others to discover it.
+
+<a href="https://github.com/Ronit049/-WhisperWall">
+  <img src="https://img.shields.io/github/stars/Ronit049/-WhisperWall?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
+</a>
+
+<br><br>
+
+# 👨‍💻 Author
+
+### **Ronit Raj**
+
+<p>
+Passionate Computer Science Student focused on building practical AI-powered applications,
+modern web experiences, and open-source projects.
+</p>
+
+<p>
+<a href="https://github.com/Ronit049">
+<img src="https://img.shields.io/badge/GitHub-Ronit049-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+---
+
+# 🌟 Show Your Support
+
+If this repository helped you:
+
+⭐ Star the repository
+
+🍴 Fork it
+
+🐛 Report bugs
+
+💡 Suggest new features
+
+🤝 Contribute to make it even better
+
+Every contribution—big or small—is greatly appreciated.
+
+---
+
+# 💙 Thank You
+
+Thank you for visiting this repository!
+
+I truly appreciate your time and interest in this project. I hope it helps you learn something new or solve a real problem.
+
+If you have ideas, feedback, or would like to collaborate on future projects, feel free to reach out. Contributions, discussions, and suggestions are always welcome.
+
+**Happy Coding! 🚀**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Thanks+for+Visiting!;Happy+Coding!;Keep+Building+Amazing+Things!;See+You+Again!+👋" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:111827&height=160&section=footer"/>
 
 </div>
-
-
-## Thank You
